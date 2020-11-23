@@ -105,7 +105,8 @@ button {
     display: none;
   }
 
-  .logo {
+  .stuff {
+    margin: 0 auto;
   }
 
   .row {
